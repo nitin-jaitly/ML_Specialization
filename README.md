@@ -1,2 +1,2 @@
 # ML_Specialization
-Courseera_Stanford_and_Deeplearning.AI
+Coursera_Stanford_and_Deeplearning.AI
